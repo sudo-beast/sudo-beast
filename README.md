@@ -9,8 +9,4 @@
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/570699104804667393.png"/>
 </p>
-<p align="center">
-ello
-<p align="center">
-    <a href="https://discord.gg/mVdMmsWmUn">Discord Server</a>
 
